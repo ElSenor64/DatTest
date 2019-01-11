@@ -1,3 +1,17 @@
-p{color: gray; text-align: center;}
-h1{color: darkviolet; text-align: center;}
+@import url('https://fonts.googleapis.com/css?family=Charm|Inconsolata|Indie+Flower|Libre+Barcode+128+Text|Roboto|Vibur');
+
+/*
+font-family: 'Roboto', sans-serif;
+font-family: 'Libre Barcode 128 Text', cursive;
+font-family: 'Charm', cursive;
+font-family: 'Inconsolata', monospace;
+font-family: 'Indie Flower', cursive;
+font-family: 'Vibur', cursive;
+*/
+
+p{color: gray; text-align: center; font-family: "Inconsolata";}
+h1{color: darkviolet; text-align: center; font-family: "Roboto";}
+h2{color: lightgrey; font-family: "Libre Barcode 128 Text"; font-size: 48pt;}
 body{background-color: #2c5c23; background-image: url("https://www.transparenttextures.com/patterns/black-linen.png");}
+
+img{align-content: center;}
